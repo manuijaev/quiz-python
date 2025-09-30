@@ -1,29 +1,29 @@
 import random
 questions = [
     {
-        "question": "What is the capital of France?",
-        "choices": ["A) Berlin", "B) Madrid", "C) Paris", "D) Rome"],
-        "answer": "C"
-    },
-    {
-        "question": "Which programming language is known as the 'language of the web'?",
-        "choices": ["A) Python", "B) JavaScript", "C) C++", "D) Java"],
+        "question": "What color is the sky on a clear day?",
+        "choices": ["A) Green", "B) Blue", "C) Red", "D) Yellow"],
         "answer": "B"
     },
     {
-        "question": "Who developed the theory of relativity?",
-        "choices": ["A) Isaac Newton", "B) Nikola Tesla", "C) Albert Einstein", "D) Galileo Galilei"],
+        "question": "How many legs does a cat have?",
+        "choices": ["A) Two", "B) Three", "C) Four", "D) Five"],
         "answer": "C"
     },
     {
-        "question": "What is 5 + 7?",
-        "choices": ["A) 10", "B) 11", "C) 12", "D) 13"],
-        "answer": "C"
-    },
-    {
-        "question": "Which planet is known as the Red Planet?",
-        "choices": ["A) Venus", "B) Mars", "C) Jupiter", "D) Saturn"],
+        "question": "What is 2 + 2?",
+        "choices": ["A) 3", "B) 4", "C) 5", "D) 6"],
         "answer": "B"
+    },
+    {
+        "question": "Which fruit is yellow and curved?",
+        "choices": ["A) Apple", "B) Banana", "C) Orange", "D) Mango"],
+        "answer": "B"
+    },
+    {
+        "question": "Which day comes after Monday?",
+        "choices": ["A) Sunday", "B) Wednesday", "C) Tuesday", "D) Friday"],
+        "answer": "C"
     }
 ]
 
